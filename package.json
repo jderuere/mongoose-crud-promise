@@ -1,0 +1,23 @@
+{
+  "name": "mongoose-crud-promise",
+  "version": "1.0.0",
+  "description": "Promise based crud logic for mongoose",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jderuere/mongoose-crud-promise.git"
+  },
+  "keywords": [
+    "mongoose",
+    "node",
+    "nodejs",
+    "promise",
+    "database",
+    "nosql",
+    "mongo",
+    "mongodb"
+  ],
+  "author": "Julien Deruere <deruere.julien@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/jderuere/mongoose-crud-promise"
+}
